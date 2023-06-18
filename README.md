@@ -1,11 +1,11 @@
-About r-rworldxtra
-==================
+About r-rworldxtra-feedstock
+============================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rworldxtra-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=rworldxtra
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-rworldxtra-feedstock/blob/main/LICENSE.txt)
 
 Summary: High resolution vector country boundaries derived from Natural Earth data, can be plotted in rworldmap.
 
